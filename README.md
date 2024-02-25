@@ -9,17 +9,18 @@
 
 -----
 
-<div align="justify">
+<div>
   <img align="left" alt="Header" src="img/Ayako-Rokkaku-2017-025cropped.jpg"
     width="600" 
     height="300"/>
 
-  <p align="right">
-    This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.
-  </p>
+  <div align="justify">
+    <p align="right">This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.</p>
+  </div>
 </div>
 
 ----
+<br/>
 <br/>
 <br/>
 <br/>
