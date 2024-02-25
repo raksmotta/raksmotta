@@ -1,10 +1,11 @@
 <div align="left">
-<p>☆ Hi, I'm Raquel.</p>
-<p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
-<p>☆ I’m currently learning C and C++.</p>
-
-- ❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.
-- ❀ Fun fact: I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022.
+  <p>☆ Hi, I'm Raquel.</p>
+  <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
+  <p>☆ I’m currently learning C and C++.</p>
+  
+  <p>❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.</p>
+  <p>❀ Fun fact: I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022.</p>
+</div>
 
 -----
 
