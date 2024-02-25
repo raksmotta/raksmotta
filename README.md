@@ -11,6 +11,8 @@
 <img align="center" alt="Header" src="img/Ayako-Rokkaku-2017-025cropped.jpg"/>
 </div>
 
+<div align="justify">
+  This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.
 -----
 <!---
 raksmotta/raksmotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
