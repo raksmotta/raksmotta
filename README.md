@@ -19,7 +19,6 @@
   </div>
 </div>
 
-----
 <br/>
 <br/>
 <br/>
@@ -31,6 +30,7 @@
 <br/>
 
 <div>
+  -----
   <p>♬ Raquel's Spotify Data</p>
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=raquelmotta2003" alt="Data Card for Spotify">
 </div>
