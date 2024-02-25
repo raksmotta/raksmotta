@@ -9,6 +9,8 @@
 
 <div>
 <img align="center" alt="Header" src="img/Ayako-Rokkaku-2017-025cropped.jpg"/>
+  width="600" 
+  height="300"
 </div>
 
 <div align="justify">
