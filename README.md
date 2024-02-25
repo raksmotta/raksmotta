@@ -14,8 +14,8 @@
     width="600" 
     height="300"/>
 
-  <div align="justify">
-    <p align="right">This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.</p>
+  <div align="right">
+    <p align="justify">This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.</p>
   </div>
 </div>
 
