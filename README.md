@@ -22,10 +22,8 @@
 </div>
 
 <div>
-    <summary>♬ Raquel's Spotify Data</summary>
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=raquelmotta2003">
+    <p>♬ Raquel's Spotify Data</p>
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=raquelmotta2003" alt="Data Card for Spotify">
-  </a>
 </div>
 
 <!---
