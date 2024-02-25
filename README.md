@@ -16,14 +16,15 @@
     height="300"/>
 
   <div align="right">
-  <p align="justify"> This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.</p>
+    <p align="justify"> This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.</p>
   </div>
 
 </div>
-
+<br/>
+<br/>
 <div>
     <p>♬ Raquel's Spotify Data</p>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=raquelmotta2003" alt="Data Card for Spotify">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=raquelmotta2003" alt="Data Card for Spotify">
 </div>
 
 <!---
