@@ -8,7 +8,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="img/Ayako-Rokkaku-2017-025cropped"/>
+<img align="center" alt="Header" src="img/Ayako-Rokkaku-2017-025cropped.jpg"/>
 </div>
 
 -----
