@@ -19,13 +19,14 @@
   <p align="justify"> This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.</p>
   </div>
 
-</div>
-
 <div>
-  
+  <div>
+    <details>
+    <summary>♬ Raquel's Spotify Data</summary>
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=raquelmotta2003" alt="Data Card for Spotify">
+    </details>
+  </div>
 
-
-  
 <!---
 raksmotta/raksmotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
