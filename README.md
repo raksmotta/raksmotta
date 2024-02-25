@@ -1,9 +1,9 @@
-☆ Hi, I'm Raquel.
-☆ I’m a Computer Science Undergraduate at PUC Minas.
-☆ I’m currently learning C and C++.
+- ☆ Hi, I'm Raquel.
+- ☆ I’m a Computer Science Undergraduate at PUC Minas.
+- ☆ I’m currently learning C and C++.
 
-❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.
-❀ Fun fact: I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022.
+- ❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.
+- ❀ Fun fact: I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022.
 
 -----
 
