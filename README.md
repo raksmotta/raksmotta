@@ -20,8 +20,18 @@
     <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
       <img src="img/l1nk.jpg" width="50px" height="50px">
     </a>
+  ☆☆☆☆☆☆☆     
+    <a href="mailto:apxraquel@gmail.com" target="_blank">
+      <img src="img/gmail.jpg" width="50px" height="50px">
+    </a>
+  ☆☆☆☆☆☆☆     
+  <a href="mailto:apxraquel@gmail.com" target="_blank">
+    <img src="img/gmail.jpg" width="50px" height="50px">
+  </a>
   </div>
 
+<br/><br/><br/><br/><br/>
+  
 ##skills and programming languages
 
 <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022. You can check my certificates here.</p>
