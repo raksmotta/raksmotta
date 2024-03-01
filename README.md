@@ -12,7 +12,7 @@
     <p>☆ You can also find me on: </p>
     </a> 
       <a href="https://www.instagram.com/raksmotta/" target="_blank">
-      <img src="img/insta.jpg" width="48px" height="48px">
+      <img src="img/1nsta.jpg" width="50px" height="50px">
     </a>
     <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022. You can check my certificates here.</p>
   </div>
