@@ -53,7 +53,6 @@
 ## academic achievments
 
 </div>
------
 
 <div>
   <img align="left" src="img/Ayako-Rokkaku-2017-025cropped.jpg"
