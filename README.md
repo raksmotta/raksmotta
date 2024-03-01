@@ -42,15 +42,15 @@
 
 -----
 
-<br/><br/>
-
 <div>
 
-**skills and programming languages**
+## skills and programming languages
+<p>☆ Currently learning C and C++.</p>
+<p>☆ Currently learning HTML/CSS.</p>
 
-**work experience**
+## work experience
 
-**academic achievments**
+## academic achievments
 
 </div>
 -----
