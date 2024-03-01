@@ -1,10 +1,13 @@
 <div align="left">
   <p>☆ Hi, I'm Raquel.</p>
   <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
-  <p>☆ Don't hesitate to <a href="mailto:apxraquel@gmail.com" target="_blank">contact me</a> at: apxraquel@gmail.com! <\br> Or you can find me at:</p>
-
+  <p>☆ Don't hesitate to <a href="mailto:apxraquel@gmail.com" target="_blank">contact me</a> at: apxraquel@gmail.com!</p>
+  <p>☆ You can also find me at:</p>
   <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  </a>
+  <a href="https://www.instagram.com/raksmotta/" target="_blank">
+  <img src="https://iconscout.com/contributors/vektorastudio" width="48px" height="48px">
   </a>
 
   <p>❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.</p>
