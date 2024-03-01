@@ -1,19 +1,19 @@
-<div align="left">
-  <p>☆ Hi, I'm Raquel.</p>
-  <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
-  <p>☆ Don't hesitate to <a href="mailto:apxraquel@gmail.com" target="_blank">contact me</a> at: apxraquel@gmail.com!</p>
-  <p>☆ You can also find me at:</p>
-
+<div>
+  
   <div>
-  <img align="left" alt="Header" src=""
-    width="600" 
-    height="300"/>
-
-  <div align="right">
-    <p align="justify">This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.</p>
+  <img align="left" src="img/dogs.jpg"
+    width="300"/>
   </div>
+  
+  <div align="right">
+    <p>☆ Hi, I'm Raquel.</p>
+    <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
+    <p>☆ Don't hesitate to contact me at: apxraquel@gmail.com !</p>
+  </div>
+
 </div>
 
+  
   <p>❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.</p>
   <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022.</p>
 </div>
