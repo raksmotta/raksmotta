@@ -29,6 +29,8 @@
     <img src="img/wpp.jpg" width="50px" height="50px">
   </a>
   </div>
+  
+<br/><br/><br/>
 
   <div align="left">
     <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022. You can check my certificates here.</p>
