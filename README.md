@@ -1,8 +1,8 @@
 <div>
   
   <div>
-  <img align="right" src="img/dogs.jpg"
-    width="300"/>
+  <img align="right" src="img/doguinhos.jpg"
+    width="500"/>
   </div>
   
   <div align="left">
