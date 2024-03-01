@@ -1,7 +1,6 @@
 <div align="left">
   <p>☆ Hi, I'm Raquel.</p>
   <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
-  <p>☆ I’m currently learning C and C++.</p>
   <p>☆ Don't hesitate to <a href="mailto:apxraquel@gmail.com" target="_blank">contact me</a> at: apxraquel@gmail.com!</p>
   
   <p>❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.</p>
@@ -25,6 +24,13 @@
 <div align="center">
   <p>˖⁺‧₊˚♡˚₊‧⁺˖♡︎˖⁺‧₊˚♡˚₊‧⁺˖<b>Raquel's Spotify Data</b>˖⁺‧₊˚♡˚₊‧⁺˖♡︎˖⁺‧₊˚♡˚₊‧⁺˖</p>
     <img height="400" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=raquelmotta2003" alt="Data Card for Spotify">
+</div>
+
+-----
+
+<div align="left">
+  <p><b>Skills and languages</b></p>
+  <p>☆ I’m currently learning C and C++.</p>
 </div>
 
 <!---
