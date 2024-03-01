@@ -3,18 +3,15 @@
   <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
   <p>☆ Don't hesitate to <a href="mailto:apxraquel@gmail.com" target="_blank">contact me</a> at: apxraquel@gmail.com!</p>
   <p>☆ You can also find me at:</p>
+  
   <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
+  
   <a href="https://www.instagram.com/raksmotta/" target="_blank">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ1cjRsN3V3MnNmYWp3NWt5d2N6anp0cmJ0ZGNvYnZyanlndGM4NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q8Eg9UzVfSkJxeoWEc/giphy.gif" width="48px" height="48px">
   </a>
-  </a>
-  <a href="https://www.instagram.com/raksmotta/" target="_blank">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQwNXBzbGtiYmhraGNvajdscmF5a2xjeWppM2o1d3pjbXIwb2kwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DRinNvjCXc5Iexx0CH/giphy.gif" width="48px" height="48px">
-  </a>
-
-
+  
   <p>❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.</p>
   <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022.</p>
 </div>
