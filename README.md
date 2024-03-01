@@ -15,7 +15,7 @@
   <div align="left">
     <a href="https://www.instagram.com/raksmotta/" target="_blank">
       <img src="img/1nsta.jpg" width="50px" height="50px">
-      instagram
+      ☆☆☆☆☆☆☆☆         
     </a>
     <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
       <img src="img/l1nk.jpg" width="50px" height="50px">
