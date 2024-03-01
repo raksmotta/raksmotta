@@ -9,19 +9,24 @@
     <p>☆ Hi, I'm Raquel.</p>
     <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
     <p>☆ Don't hesitate to contact me at: apxraquel@gmail.com !</p>
+    <p>☆ You can also find me on: </p>
+    <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022. You can check my certificates here.</p>
   </div>
 
-</div>
+##skills and programming languages
 
-  
+##work experience
+
+##academic achievments
+
+</div>
   <p>❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.</p>
-  <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022.</p>
 </div>
 
 -----
 
 <div>
-  <img align="left" alt="Header" src="img/Ayako-Rokkaku-2017-025cropped.jpg"
+  <img align="left" src="img/Ayako-Rokkaku-2017-025cropped.jpg"
     width="600" 
     height="300"/>
 
