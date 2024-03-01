@@ -2,7 +2,7 @@
   
   <div>
   <img align="right" src="img/doguinhos.jpg"
-    width="500"/>
+    width="400"/>
   </div>
   
   <div align="left">
