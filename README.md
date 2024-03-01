@@ -1,11 +1,11 @@
 <div>
   
   <div>
-  <img align="left" src="img/dogs.jpg"
+  <img align="right" src="img/dogs.jpg"
     width="300"/>
   </div>
   
-  <div align="right">
+  <div align="left">
     <p>☆ Hi, I'm Raquel.</p>
     <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
     <p>☆ Don't hesitate to contact me at: apxraquel@gmail.com !</p>
