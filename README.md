@@ -52,6 +52,8 @@
 
 ## academic achievments
 
+-----
+
 </div>
 
 <div>
@@ -72,11 +74,6 @@
 </div>
 
 -----
-
-<div align="left">
-  <p><b>Skills and languages</b></p>
-  <p>☆ I’m currently learning C and C++.</p>
-</div>
 
 <!---
 raksmotta/raksmotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
