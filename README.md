@@ -25,8 +25,8 @@
       <img src="img/gmail.jpg" width="50px" height="50px">
     </a>
   ☆☆☆☆☆☆☆     
-  <a href="mailto:apxraquel@gmail.com" target="_blank">
-    <img src="img/gmail.jpg" width="50px" height="50px">
+  <a href="https://wa.me/5531982603232" target="_blank">
+    <img src="img/wpp.jpg" width="50px" height="50px">
   </a>
   </div>
 
