@@ -6,7 +6,7 @@
   </div>
   
   <div align="left">
-    <p>☆ Hi, my name is Raquel Motta. I am 21 years old.</p>
+    <p>☆ Hi, my name is Raquel. I am 21 years old.</p>
     <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
     <p>☆ Don't hesitate to contact me at: apxraquel@gmail.com !</p>
     <p>☆ You can also find me on: </p>
@@ -42,14 +42,17 @@
 
 -----
 
-<br/><br/><br/><br/><br/>
-  
-##skills and programming languages
+<br/><br/>
 
-##work experience
+<div>
 
-##academic achievments
+**skills and programming languages**
 
+**work experience**
+
+**academic achievments**
+
+</div>
 -----
 
 <div>
