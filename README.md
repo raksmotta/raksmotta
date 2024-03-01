@@ -10,18 +10,20 @@
     <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
     <p>☆ Don't hesitate to contact me at: apxraquel@gmail.com !</p>
     <p>☆ You can also find me on: </p>
+  </div>
 
+  <div align="left">
     <a href="https://www.instagram.com/raksmotta/" target="_blank">
       <img src="img/1nsta.jpg" width="50px" height="50px">
     </a>
     <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
       <img src="img/l1nk.jpg" width="50px" height="50px">
     </a>
-  
-    <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022. You can check my certificates here.</p>
   </div>
 
 ##skills and programming languages
+
+<p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022. You can check my certificates here.</p>
 
 ##work experience
 
