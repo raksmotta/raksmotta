@@ -16,15 +16,15 @@
     <a href="https://www.instagram.com/raksmotta/" target="_blank">
       <img src="img/1nsta.jpg" width="50px" height="50px">         
     </a>
-  ☆☆☆☆☆☆☆     
+  ☆☆☆☆☆    
     <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
       <img src="img/l1nk.jpg" width="50px" height="50px">
     </a>
-  ☆☆☆☆☆☆☆     
+  ☆☆☆☆☆    
     <a href="mailto:apxraquel@gmail.com" target="_blank">
       <img src="img/gmail.jpg" width="50px" height="50px">
     </a>
-  ☆☆☆☆☆☆☆     
+  ☆☆☆☆☆     
   <a href="https://wa.me/5531982603232" target="_blank">
     <img src="img/wpp.jpg" width="50px" height="50px">
   </a>
