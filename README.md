@@ -45,8 +45,7 @@
 <div>
 
 ## skills and programming languages
-<p>☆ Currently learning C and C++.</p>
-<p>☆ Currently learning HTML/CSS.</p>
+<p>☆ C, C++, Java, HTML/CSS, JavaScript</p>
 
 ## work experience
 
