@@ -32,11 +32,12 @@
   <h3>Skills and Programming Languages</h3>
   <p>Proficient in:</p>
   <div>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="60" height="60"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" alt="C++" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" alt="Java" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" alt="HTML" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=8qvk2Bg2Vz7S&format=png&color=000000" alt="CSS" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000" alt="JavaScript" width="60" height="60"/>
   </div>
   <br/>
 </div>
