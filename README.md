@@ -3,7 +3,7 @@
   <h1>Hi, I'm Raquel</h1>
   <p>I am 22 year-old a Computer Science Undergraduate at PUC Minas with a passion for sustainable technology and cultural exchange.</p>
   
-  <h3>Contact Information</h3>
+  <h3>Contact me!</h3>
   <p>apxraquel@gmail.com</p>
   
   <div>
