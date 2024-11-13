@@ -27,7 +27,7 @@
   <br/>
   
   <p><img src="https://img.icons8.com/?size=100&id=N2pswV2xlw7p&format=png&color=000000"  width="30" height="30"/>
-    I'm fluent in Portuguese and English and have been learning Japanese since July 2022. <a href="link_to_certificates">View my certificates here.</a></p>
+    I'm fluent in Portuguese and English and have been learning Japanese since July 2022. <a href="https://www.linkedin.com/in/raksmotta/details/certifications/">View my certificates here.</a></p>
   
   <h3>Skills and Programming Languages</h3>
   <p>Proficient in:</p>
