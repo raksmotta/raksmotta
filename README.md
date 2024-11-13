@@ -1,78 +1,70 @@
-<div>
-  
-  <div>
-  <img align="right" src="img/doguinhos.jpg"
-    width="350"/>
-  </div>
-  
-  <div align="left">
-    <p>☆ Hi, my name is Raquel. I am 21 years old.</p>
-    <p>☆ I’m a Computer Science Undergraduate at PUC Minas.</p>
-    <p>☆ Don't hesitate to contact me at: apxraquel@gmail.com !</p>
-    <p>☆ You can also find me on: </p>
-  </div>
-
-  <div align="left">
-    <a href="https://www.instagram.com/raksmotta/" target="_blank">
-      <img src="img/1nsta.jpg" width="50px" height="50px">         
-    </a>
-  ☆☆☆☆☆    
-    <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
-      <img src="img/l1nk.jpg" width="50px" height="50px">
-    </a>
-  ☆☆☆☆☆    
-    <a href="mailto:apxraquel@gmail.com" target="_blank">
-      <img src="img/gmail.jpg" width="50px" height="50px">
-    </a>
-  ☆☆☆☆☆     
-  <a href="https://wa.me/5531982603232" target="_blank">
-    <img src="img/wpp.jpg" width="50px" height="50px">
-  </a>
-  </div>
-  
-<br/><br/>
-
-  <div align="left">
-    <p>❀ I am fluent in Portuguese and English. I have been taking Japanese classes since july/2022. You can check my certificates here.</p>
-    <br/>
-    <p>❀ My dream is to use programming and technology to make the world more sustainable and to favour egalitarian cultural exchange.</p>   
-  </div>
-  
-</div>
-
------
-
-<div>
-
-## skills and programming languages
-<p>☆ C, C++, Java, HTML/CSS, JavaScript</p>
-
-## work experience
-
-## academic achievments
-
------
-
-</div>
-
-<div>
-  <img align="left" src="img/Ayako-Rokkaku-2017-025cropped.jpg"
-    width="600" 
-    height="300"/>
+<div align="left">
 
   <div align="right">
-    <p align="justify">This is an artwork by one of my favourite artists: <a href="https://rokkakuayako.com/">ROKKAKU AYAKO</a>. I am also a big fan of YOSHITOMO NARA and AYA TAKANO.</p>
+    <img align="right" src="img/Ayako-Rokkaku-2017-025cropped.jpg" width="300" height="300"/>
   </div>
+  
+  <h1>Hi, I'm Raquel</h1>
+  <p>I am a Computer Science Undergraduate at PUC Minas with a passion for sustainable technology and cultural exchange.</p>
+  
+  <h3>Contact Information</h3>
+  <p>Feel free to reach out:</p>
+  
+  <div>
+    <a href="mailto:apxraquel@gmail.com">
+      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" height="30"/>
+    </a>
+    <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="30" height="30"/>
+    </a>
+    <a href="https://www.instagram.com/raksmotta/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" height="30"/>
+    </a>
+    <a href="https://wa.me/5531982603232" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="30" height="30"/>
+    </a>
+  </div>
+  
+  <br/>
+  
+  <h3>Languages I Speak</h3>
+  <p>I'm fluent in Portuguese and English and have been learning Japanese since July 2022. <a href="link_to_certificates">View my certificates here.</a></p>
+  
+  <h3>Skills and Programming Languages</h3>
+  <p>Proficient in:</p>
+  <div>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="30" height="30"/>
+  </div>
+
+  <br/>
+
+  <h3>Work Experience</h3>
+  <p>[List your professional experiences or relevant roles here]</p>
+
+  <h3>Academic Achievements</h3>
+  <p>[List your academic accomplishments here]</p>
+
+  <br/><br/>
+
 </div>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+---
 
 <div align="center">
-  <p>˖⁺‧₊˚♡˚₊‧⁺˖♡︎˖⁺‧₊˚♡˚₊‧⁺˖<b>Raquel's Spotify Data</b>˖⁺‧₊˚♡˚₊‧⁺˖♡︎˖⁺‧₊˚♡˚₊‧⁺˖</p>
-    <img height="400" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=raquelmotta2003" alt="Data Card for Spotify">
+  <h3>Fun Facts</h3>
+  <p align="justify">I admire the work of several contemporary Japanese artists, such as <a href="https://rokkakuayako.com/">Rokkaku Ayako</a>, <a href="https://www.instagram.com/yoshitomonara/">Yoshitomo Nara</a>, and <a href="https://ayatakano.com/">Aya Takano</a>.</p>
+
+  <br/><br/>
+
+  <p>˖⁺‧₊˚♡˚₊‧⁺˖<b>Raquel's Spotify Data</b>˖⁺‧₊˚♡˚₊‧⁺˖</p>
+  <img height="400" src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=raquelmotta2003" alt="Data Card for Spotify">
 </div>
 
------
+---
 
 <!---
 raksmotta/raksmotta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
