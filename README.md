@@ -8,26 +8,26 @@
   
   <div>
     <a href="mailto:apxraquel@gmail.com">
-      <img src="https://img.icons8.com/?size=100&id=Ud3HIiTszMes&format=png&color=000000" width="60" height="60"/>
+      <img src="https://img.icons8.com/?size=100&id=Ud3HIiTszMes&format=png&color=000000" width="60" height="60" target=”_blank”/>
     </a>
     .....
     <a href="https://www.linkedin.com/in/raksmotta/" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000" width="60" height="60"/>
+      <img src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000" width="60" height="60" target=”_blank”/>
     </a>
     .....
     <a href="https://www.instagram.com/raksmotta/" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=INodqfyB9XCT&format=png&color=000000" width="60" height="60"/>
+      <img src="https://img.icons8.com/?size=100&id=INodqfyB9XCT&format=png&color=000000" width="60" height="60" target=”_blank”/>
     </a>
     .....
     <a href="https://wa.me/5531982603232" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=EkrO09CBZb8i&format=png&color=000000" width="60" height="60"/>
+      <img src="https://img.icons8.com/?size=100&id=EkrO09CBZb8i&format=png&color=000000" width="60" height="60" target=”_blank”/>
     </a>
   </div>
   
   <br/>
   
   <p><img src="https://img.icons8.com/?size=100&id=N2pswV2xlw7p&format=png&color=000000"  width="30" height="30"/>
-    I'm fluent in Portuguese and English and have been learning Japanese since July 2022. <a href="https://www.linkedin.com/in/raksmotta/details/certifications/">View my certificates here.</a></p>
+    I'm fluent in Portuguese and English and have been learning Japanese since July 2022. <a href="https://www.linkedin.com/in/raksmotta/details/certifications/" target=”_blank”>View my certificates here.</a></p>
   
   <h3>Skills and Programming Languages</h3>
   <p>Proficient in:</p>
