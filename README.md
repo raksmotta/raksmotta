@@ -4,7 +4,7 @@
   <p>I am a Computer Science Undergraduate at PUC Minas with a passion for sustainable technology and cultural exchange.</p>
   
   <h3>Contact Information</h3>
-  <p>Feel free to reach out:</p>
+  <p>apxraquel@gmail.com</p>
   
   <div>
     <a href="mailto:apxraquel@gmail.com">
