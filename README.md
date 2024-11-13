@@ -1,9 +1,5 @@
 <div align="left">
 
-  <div align="right">
-    <img align="right" src="img/Ayako-Rokkaku-2017-025cropped.jpg" width="300" height="300"/>
-  </div>
-  
   <h1>Hi, I'm Raquel</h1>
   <p>I am a Computer Science Undergraduate at PUC Minas with a passion for sustainable technology and cultural exchange.</p>
   
@@ -43,10 +39,10 @@
   <br/>
 
   <h3>Work Experience</h3>
-  <p>[List your professional experiences or relevant roles here]</p>
+  <p></p>
 
   <h3>Academic Achievements</h3>
-  <p>[List your academic accomplishments here]</p>
+  <p></p>
 
   <br/><br/>
 
@@ -57,7 +53,11 @@
 <div align="center">
   <h3>Fun Facts</h3>
   <p align="justify">I admire the work of several contemporary Japanese artists, such as <a href="https://rokkakuayako.com/">Rokkaku Ayako</a>, <a href="https://www.instagram.com/yoshitomonara/">Yoshitomo Nara</a>, and <a href="https://ayatakano.com/">Aya Takano</a>.</p>
-
+  
+  <div>
+    <img src="img/Ayako-Rokkaku-2017-025cropped.jpg" width="600" height="300" alt="Artwork by Rokkaku Ayako"/>
+  </div>
+  
   <br/><br/>
 
   <p>˖⁺‧₊˚♡˚₊‧⁺˖<b>Raquel's Spotify Data</b>˖⁺‧₊˚♡˚₊‧⁺˖</p>
