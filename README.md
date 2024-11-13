@@ -8,16 +8,19 @@
   
   <div>
     <a href="mailto:apxraquel@gmail.com">
-      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" height="30"/>
+      <img src="https://img.icons8.com/?size=100&id=Ud3HIiTszMes&format=png&color=000000" width="50" height="50"/>
     </a>
-    <a href="https://www.linkedin.com/in/raquel-motta-159249268/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="30" height="30"/>
+    .....
+    <a href="https://www.linkedin.com/in/raksmotta/" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=ZADJgisVhP37&format=png&color=000000" width="50" height="50"/>
     </a>
+    .....
     <a href="https://www.instagram.com/raksmotta/" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" height="30"/>
+      <img src="https://img.icons8.com/?size=100&id=INodqfyB9XCT&format=png&color=000000" width="50" height="50"/>
     </a>
+    .....
     <a href="https://wa.me/5531982603232" target="_blank">
-      <img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="30" height="30"/>
+      <img src="https://img.icons8.com/?size=100&id=EkrO09CBZb8i&format=png&color=000000" width="50" height="50"/>
     </a>
   </div>
   
