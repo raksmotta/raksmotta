@@ -4,8 +4,6 @@
   <p>I am 22 year-old Computer Science Undergraduate at PUC Minas with a passion for sustainable technology and cultural exchange.</p>
   
   <h3>Contact me!</h3>
-  <p>apxraquel@gmail.com</p>
-  
   <div>
     <a href="mailto:apxraquel@gmail.com">
       <img src="https://img.icons8.com/?size=100&id=Ud3HIiTszMes&format=png&color=000000" width="60" height="60" target=”_blank”/>
