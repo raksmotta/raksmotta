@@ -36,6 +36,7 @@
     <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" alt="HTML" width="60" height="60"/>
     <img src="https://img.icons8.com/?size=100&id=8qvk2Bg2Vz7S&format=png&color=000000" alt="CSS" width="60" height="60"/>
     <img src="https://img.icons8.com/?size=100&id=RwtOBojoLS2N&format=png&color=000000" alt="JavaScript" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="60" height="60"/>
   </div>
   <br/>
 </div>
